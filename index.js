@@ -1,11 +1,14 @@
-let num1 = 62;
-let num2 = 1;
-let multiply = num1*num2;
+var num1 = 31;
+var num2 = 2;
+var multiply = num1 * num2;
 
-let random = Math.floor(Math.random() * 10) + 1;
+//random
+var random = Math.floor(Math.random()* 10) + 1;
 
-let num3 = 40;
-let num4 = 6;
-let mod =  num3 % num4;
+//remainder
+var num3 =12;
+var num4 = 8;
+var mod = num3 % num4;
 
-let max = Math.max (3,5,6,2,20);
+//highest number
+var max = Math.max(1,2,3,4,20);
